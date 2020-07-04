@@ -1,0 +1,2 @@
+C:\Users\Vikash\Desktop\on-cr-re\1\Code-OnlineCrimeReport\bin\Debug\WindowsApplication.exe.config
+G:\Online Crime Report Project\bin\Debug\WindowsApplication.exe.config
